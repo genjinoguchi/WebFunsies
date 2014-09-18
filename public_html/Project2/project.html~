@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<style type="text/css">
+			body {background-color: black}
+			h1 {color: red}
+			h2 {color: red}
+			body {color: lime; text-align: center}
+		</style>
+		<title>
+			Super Fighting Robot!
+		</title>
+	</head>
+	<body>
+		<h1 align="left">Mega Man! <i>(header 1)</i></h1>
+		
+		<p>The evil Dr. Wily has created 8 'misunderstood'robots that he has used to try to take 			over the world. <br>It is now your job to save mankind by 'repurposing'the robots 			tools<br>(against eachother).<br><br></p>
+
+		<h2 style="color:red" align="left">
+			Check out this &lttable&gt<br><br>
+		</h2>
+
+		<table>
+			<table border="1">
+			<tr>
+				<td></td>
+				<td><b>Robot Masters:</b></td>
+				<td></td>
+			</tr>
+			<tr>
+				<td><img src="pikachu.jpeg" width="200" height="150"></td>
+				<td><img src="triangleman.jpeg" width = "250" height="150"></td>
+				<td><b>Honey Nut Cheerios Man</b></td>
+			</tr>
+			<tr>
+				<td><b>Recycling Man</b></td>
+				<td style="color:yellow">Choose Your Opponent!</td>
+				<td><img src="cocacola.jpeg" width="200" height="150">
+			</tr>
+			<tr>
+				<td>
+			</tr>
+		</table>
+	</body>
+</html>

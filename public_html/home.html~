@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>
+			GENJI'S HOME PAGE
+		</title>
+		<style type="text/css">
+			p {color:red}
+			h1 {color:orange}
+			img {align="center"}
+		</style>
+	</head>
+
+	<body background="matrix.gif">
+		<h1 align="center"; color="orange">
+			<b><i><font size="18">Genji's Home Page!</font></b></i></h1>
+			<br><br>
+			<marquee>
+				<p><font face="comic sans ms" size="14">Hey, I'm Genji from Mr. Platek's Period 5 class.  Do you like the background? I love the background.  I know you love the background.  Don't deny that you love the background.</p>
+			</marquee>
+			<br>
+			<p><font size="6" color="yellow"><center>Hey guys, it's Genji Noguchi.<br>
+			Most times, when I meet someone for the first time, they do something like:</center><br>
+			<font size="30" face="arial black" color="white">NO WAY<br>YOU'RE JAPANESE???<br>
+			I'VE HEARD SO MUCH ABOUT YOU!</font>
+			<br>
+			...<br></p>
+			<br>
+			<p><font color="White" align="left">Turns out, however, that I'm not all Japanese.<br>
+			Just half.<br>
+			Sorry to disappoint.<br></font>
+			Here's my family:
+			<ul>
+				<li>The one that holds up our family- my dad, Kazuo.<br>
+				He's the one that is supporting all of us,<br>
+				you can tell that I'm pretty grateful for him.<br>
+			<img src="worldsbestdad.jpg" width="300" height="250">
+				<br>Thanks dad.</li>
+				<li>Next is mom, who is Taiwanese (NOT CHINESE, THERE IS A DIFFERENCE).<br>
+				She works hard and puts all of us before herself.<br>
+				What a great mom.<nr>
+				You're the best.<br>
+				Without her, i would never find anything at home haha.</li>
+			</ul>
+			<br><br><br>
+			<p>Sigh...
+			The plans I had for this home page were like
+			<br>
+			<img src="thisbig.jpg" width="300" height="200">
+			<br>
+			But I'm in this team called<br>
+			<font size="15"><i>Stuyvesant Science Olympiad</i></font>
+			<br>
+			And we have some serious work to do.
+			<br>
+			<font face="helvetica"><i>Au revoir!</i></font></p></font>
+
+		</h1>
+	</body>
+
+</html>

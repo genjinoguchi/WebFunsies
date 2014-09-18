@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<title>Circle Math</title>
+	</head>
+
+	<body>
+		<h1>Circle Functions</h1>
+		<form action="boxes&radio" method="get">
+			Radius: <input type="text" name="radius"><br>
+			<input type="text" value="submit">
+		</form>
+	</body>
+
+</html>

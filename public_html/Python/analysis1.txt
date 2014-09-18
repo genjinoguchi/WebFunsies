@@ -1,0 +1,7 @@
+a:           1
+last:        1
+This:        3
+is:          3
+line.:       3
+another:     1
+the:         1

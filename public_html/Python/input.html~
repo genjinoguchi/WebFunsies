@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>
+            Form Greeting
+        </title>
+    <body>
+        <form action="hello_get.py" method="get">
+            First Name: <input type="text" name="first_name"><br>
+            Middle Initial: <input type="text" name="middle_initial" maxlength="1"><br>
+            Last Name: <input type="text" name="last_name"><br>
+            <input type="submit" value="Submit">
+        </form>
+
+</html>

@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>8 Ball</title>
+	</head>
+
+	<body>
+		<table>
+		<tr>
+		<td>
+		<img src="../pic/8_ball_face.jpg" width='300' ></td>
+		</td>
+		</tr>
+		<tr>
+		<td>
+                <form action="magicEightBall.py" method="get">
+                    What do you want to ask?<input type="text" name="question">
+                    <input type="submit" value="FOASHFOAH">
+                </form>
+            	</td>
+		</tr>
+		</table>
+	</body>
+
+</html>

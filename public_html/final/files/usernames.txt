@@ -1,0 +1,11 @@
+Username,Password,Name,Email
+genjinoguchi,peanutbutter,Genji Noguchi,genji.noguchi@gmail.com
+owen smith,smith owen,Owen Smith,talktoOS@gmail.com
+bubbles,ftw,bubbles,ftw@ftw.com
+Aloanlyshark,iliketheiceramman,Edmond Loi,aloanlyshark@gmail.com
+ervinflores,cow,Ervin Flores,ervflores@gmail.com
+Stuyvesant,thekiller,Stuyvesant,sdfljasldfkj@yahoo.com
+sukmydik,teehee,brian chuk,f1422179@rmqkr.net
+awwdam,awwdam,aww,aww
+genjisucks,genjisucks,Genji Sucks,genjisucks
+Ncho,hjklas,Naoki cho,naoki.cho7@gmail.com
